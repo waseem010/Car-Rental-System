@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578890327 source:e:\c   2020 project\example\addnoc.c
+	<stdio.h>
+	<conio.h>
+
